@@ -1,0 +1,15 @@
+{
+    "name": "erop/specification-in-php",
+    "autoload": {
+        "psr-4": {
+            "Erop\\SpecificationInPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Egor Ushakov",
+            "email": "eushakov@gmail.com"
+        }
+    ],
+    "require": {}
+}
